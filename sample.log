@@ -1,0 +1,5 @@
+INFO 2026-05-03 User logged in
+ERROR 2026-05-03 Failed to load page
+WARNING 2026-05-03 Disk space low
+INFO 2026-05-03 File uploaded
+ERROR 2026-05-03 Database connection failed
