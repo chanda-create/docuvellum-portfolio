@@ -6,5 +6,3 @@ My transition into Technical Writing with real-world documentation samples and t
 - [API Documentation](./api-documentation/user-api.md)
 - [Technical Writing](./technical-writing/installation-guide.md)
 - [Tender Document](./tender-documents/sample-tender.md)
-- [Machine Learning](./machine-learning/log-analyzer.md)
-- [AI — The Current & Future Trend](./ai-the-current-&-future-trend.md)
