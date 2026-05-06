@@ -7,7 +7,7 @@ I am an MSc Physics graduate with 10+ years of industrial and teaching experienc
 
 ## 📂 Portfolio Samples
 - [API Documentation](./api-documentation/user-api.md)
-- [Technical Writing](./technical-writing/installation-guide.md)
+- [Technical Writing](./technical-writing/README.md)
   - [Technical Writing](./technical-writing/installation-guide.md)
   
   - [Technical Writing](./technical-writing/MASS - Maritime Autonomous Surface Ships White Paper.md)
