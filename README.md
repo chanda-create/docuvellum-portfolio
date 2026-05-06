@@ -10,7 +10,7 @@ I am an MSc Physics graduate with 10+ years of industrial and teaching experienc
   - [User API](./api-documentation/user-api.md)
 - [Technical Writing](./technical-writing/README.md)
   - [Installation Guide](./technical-writing/installation-guide.md)
-  - [White Paper- Maritime Autonomous Surface Ships (MASS)](./technical-writing/maritime-autonomous-surface-ships.pdf.pdf)
+  - [White Paper- Maritime Autonomous Surface Ships (MASS)](./technical-writing/maritime-autonomous-surface-ships.pdf)
 - [Tender Document](./tender-documents/sample-tender.md)
   - [Consortium Agreement](./tender-documents/consortiumt-agreement.pdf)
 
