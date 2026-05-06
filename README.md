@@ -11,6 +11,7 @@ I am an MSc Physics graduate with 10+ years of industrial and teaching experienc
   - [Installation Guide](./technical-writing/installation-guide.md)
   - [White Paper- Maritime Autonomous Surface Ships (MASS)](./technical-writing/maritime-autonomous-surface-ships.pdf.pdf)
 - [Tender Document](./tender-documents/sample-tender.md)
+  - [Consortium Agreement](./tender-documents/Consortium_Tender Format Agreement.pdf)
 
 ## What This Portfolio Includes
 - Software & API: SRS, SDD, API docs, release notes
