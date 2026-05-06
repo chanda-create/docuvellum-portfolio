@@ -6,7 +6,8 @@ My transition into Technical Writing with real-world documentation samples and t
 I am an MSc Physics graduate with 10+ years of industrial and teaching experience. Over the past 3 years, I have transitioned into Technical Writing, focusing on creating clear, structured, and user-friendly documentation.
 
 ## 📂 Portfolio Samples
-- [API Documentation](./api-documentation/user-api.md)
+- [API Documentation](./api-documentation/README.md)
+  - [User API](./api-documentation/user-api.md)
 - [Technical Writing](./technical-writing/README.md)
   - [Installation Guide](./technical-writing/installation-guide.md)
   - [White Paper- Maritime Autonomous Surface Ships (MASS)](./technical-writing/maritime-autonomous-surface-ships.pdf.pdf)
