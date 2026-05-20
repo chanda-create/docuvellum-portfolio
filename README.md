@@ -12,6 +12,7 @@ I am an MSc Physics graduate with 10+ years of industrial and teaching experienc
   - [Installation Guide](./technical-writing/installation-guide.md)
   - [White Paper- Maritime Autonomous Surface Ships (MASS)](./technical-writing/maritime-autonomous-surface-ships.pdf)
   - [Onboard Motor Manual](./technical-writing/OBM-manual.pdf)
+  - [Standard Operating Procedure - Cash Withdrawl from an ATM](./technical-writing/withdrawing-cash-from-an-Automated-Teller-Machine.pdf)
 - [Policy Document](./policy-document)
 - [Tender Document](./tender-documents/sample-tender.md)
   - [Consortium Agreement](./tender-documents/consortiumt-agreement.pdf)
